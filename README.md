@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sirisha 👋
 
-<!--
-**Inumarthi-Sirisha/Inumarthi-Sirisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer with 4+ years of experience in AWS, Terraform, GitHub Actions, Docker, Linux, and CI/CD automation.
 
-Here are some ideas to get you started:
+## Skills
+- AWS
+- GCP
+- Terraform
+- GitHub Actions
+- Docker
+- Linux
+- ECS Fargate
+- Bash Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Kubernetes
+- Helm
+- Advanced AWS Services
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/sirisha-inumarthi
